@@ -2,7 +2,6 @@ streamlit
 sqlite
 hashlib
 random
-datetimeimport logging
 
 # Create a logger
 logger = logging.getLogger(__name__)
